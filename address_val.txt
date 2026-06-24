@@ -1,0 +1,236 @@
+data_train/1086_samples.png	Tổ 4, ấp Xóm Gò, Xã Long Phước, Huyện Long Thành, Đồng Nai
+data_train/1599_samples.png	7A120/1 ấp 7, Xã Phạm Văn Hai, Huyện Bình Chánh, TP Hồ Chí Minh
+data_train/0008_samples.png	Dãy II, B1, Trần Phú, Phường Cái Khế, Quận Ninh Kiều, Cần Thơ
+data_train/1552_samples.png	Số 16D/55/46 Lạch tray, Quận Lê Chân, Hải Phòng
+data_train/0674_samples.png	Số 5, Phan Như Thạch, Phường 1, Thành phố Đà Lạt, Lâm Đồng
+data_train/0240_samples.png	ấp 4, Xã Tiến Thành, Thị Xã Đồng Xoài, Bình Phước
+data_train/1642_samples.png	A2- 14NC Khu đô thị Bàu Bàng, Xã Lai Uyên, Huyện Bàu Bàng, Bình Dương
+data_train/0875_samples.png	478A5 Điện Biên Phủ, Phường Thanh Khê Đông, Quận Thanh Khê, Đà Nẵng
+data_train/1971_samples.png	Đội 11, Tân Đại, Xã Đông Hòa, Huyện Đông Sơn, Thanh Hóa
+data_train/1989_samples.png	Xã Ninh Phụng, TX Ninh Hòa, Khánh Hòa
+data_train/1664_samples.png	95/34, Nguyễn Thông, Phường An Thới, Quận Bình Thuỷ, Cần Thơ
+data_train/0681_samples.png	Số thửa 16, ấp Vĩnh Hòa, Xã An Vĩnh Ngãi, Thành phố Tân An, Long An
+data_train/0968_samples.png	107/3/7 Ngô Chí Quốc, Phường Bình Chiểu, Quận Thủ Đức, TP Hồ Chí Minh
+data_train/0382_samples.png	ấp Tân Lập, xã Vĩnh Hiệp, Thị Xã Vĩnh Châu, Sóc Trăng
+data_train/0060_samples.png	Lô H3, TX Dĩ An, Bình Dương
+data_train/0207_samples.png	ấp 2, Xã Thiện Hưng, Huyện Bù Đốp, Bình Phước
+data_train/0401_samples.png	Thôn Phú Mỹ, Xã Hàm Mỹ, Huyện Hàm Thuận Nam, Bình Thuận
+data_train/1815_samples.png	106/35 Cống Lở, Phường 15, Quận Tân Bình, TP Hồ Chí Minh
+data_train/0308_samples.png	Hẻm 138 đường Phan Đình Phùng, Phường 2, Thành phố Đà Lạt, Lâm Đồng
+data_train/1023_samples.png	Tổ 13, Khu 4, Phường Hùng Thắng, Thành phố Hạ Long, Quảng Ninh
+data_train/1894_samples.png	Khóm 6B, TT Sông Đốc, Huyện Trần Văn Thời, Cà Mau
+data_train/2165_samples.png	Số 172 đường Bạch Đằng, Phường Chương Dương, Hoàn Kiếm, Hà Nội
+data_train/0751_samples.png	Vinh Quang Hạ, Xã Gio Quang, Huyện Gio Linh, Quảng Trị
+data_train/2341_samples.png	103 Nguyễn Văn Linh, phường Đông Khê, quận Ngô Quyền, Hải Phòng
+data_train/0574_samples.png	ấp Nhà việc, xã Châu Thới, Huyện Vĩnh Lợi, Bạc Liêu
+data_train/1837_samples.png	Số 229 Tây Sơn, Ngã Tư Sở, Đống Đa, Hà Nội
+data_train/2157_samples.png	Thôn An Mỹ, xã Cẩm Châu, thành phố Hội An, tỉnh Quảng Nam
+data_train/0784_samples.png	Số 13C, Khu dân cư Nam Phương, Phường An Phú, Tx Thuận An, Bình Dương
+data_train/1018_samples.png	Tổ 17, Phường Nghĩa Chánh, Thành phố Quảng Ngãi, Quảng Ngãi
+data_train/0447_samples.png	Tổ dân phố Đoàn Kết, Thị Trấn Tủa Chùa, Huyện Tủa Chùa, Điện Biên
+data_train/1389_samples.png	56- Phan Văn Định, Phường Hoà Khánh Bắc, Quận Liên Chiểu, Đà Nẵng
+data_train/1649_samples.png	134 Bạch Đằng, Phường 2, Quận Tân Bình, TP Hồ Chí Minh
+data_train/0248_samples.png	11 Nguyễn Thi P.13, Phường 13, Quận 5, TP Hồ Chí Minh
+data_train/0403_samples.png	Số nhà 61, Đường Lê Duẩn, Tổ 1, Phường Quyết Tâm, TP. Sơn La, Sơn La
+data_train/0221_samples.png	658 Võ Văn Kiệt, Phường 01, Quận 5, TP Hồ Chí Minh
+data_train/1912_samples.png	Thôn 7, Xã Thuận Hạnh, Huyện Đắk Song, Đắk Nông
+data_train/1683_samples.png	49, đường 3/2, KV2, Phường V, Tp Vị Thanh, Hậu Giang
+data_train/1734_samples.png	200 Nguyễn Tri Phương, Phường 04, Quận 10, TP Hồ Chí Minh
+data_train/1451_samples.png	37 Nguyễn Văn Đậu P.06, Phường 6, Quận Bình Thạnh, TP Hồ Chí Minh
+data_train/1765_samples.png	Số 851 Tôn Đức Thắng, Phường Sở Dầu, Quận Hồng Bàng, Hải Phòng
+data_train/0397_samples.png	ấp Trạm Bơm, Xã Tân Phú Trung, Huyện Củ Chi, TP Hồ Chí Minh
+data_train/0386_samples.png	Tri Hải, Huyện Ninh Hải, Ninh Thuận
+data_train/0779_samples.png	Số 54A/8, Khu phố Đông Nhì, Phường Lái Thiêu, Tx Thuận An, Bình Dương
+data_train/1667_samples.png	Số 57 Đường 3643A Phạm Thế Hiển, Phường 7, Quận 8, TP Hồ Chí Minh
+data_train/1937_samples.png	Thôn Thanh An, Xã Trù Hựu, Huyện Lục Ngạn, Bắc Giang
+data_train/0995_samples.png	Số 14 Lô 5 Xi măng, Quận Hồng Bàng, Hải Phòng
+data_train/1936_samples.png	62/27 Phan Chu Trinh, Phường Minh An, TP Hội An, Quảng Nam
+data_train/0541_samples.png	thôn Phước Lợi, Xã Phước Đồng, Thành Phố Nha Trang, Khánh Hòa
+data_train/0877_samples.png	36 Hồ Tùng Mậu, Phường Hoà Minh, Quận Liên Chiểu, Đà Nẵng
+data_train/1988_samples.png	Thôn 7, Xã Ia Lâu, Huyện Chư Prông, Gia Lai
+data_train/1140_samples.png	Khu 5A, Huyện Giao Thuỷ, Nam Định
+data_train/0974_samples.png	54 Hoàng Diệu, phường 12, Quận 4, TP Hồ Chí Minh
+data_train/2105_samples.png	Khóm Trà Sư, thị trấn Nhà Bàng, huyện Tịnh Biên, tỉnh An Giang
+data_train/2174_samples.png	Phú Hòa, TT Phú Long, Huyện Hàm Thuận, Bình Thuận
+data_train/1353_samples.png	908 Tạ Quang Bửu, Phường 5, Quận 8, TP Hồ Chí Minh
+data_train/0128_samples.png	Tổ dân phố số 18, Phường Trung Văn, Quận Nam Từ Liêm, Hà Nội
+data_train/0276_samples.png	Khu phố 6, Thị trấn Di Linh, Huyện Di Linh, Lâm Đồng
+data_train/0937_samples.png	Thôn Xuân Dục 2, Xã Xuân Ninh, Huyện Quảng Ninh, Quảng Bình
+data_train/0241_samples.png	Tổ 31, Khu Cầu Xéo, Thị trấn Long Thành, Huyện Long Thành, Đồng Nai
+data_train/0290_samples.png	440 Nơ Trang Long, Phường 13, Quận Bình Thạnh, TP Hồ Chí Minh
+data_train/0029_samples.png	ấp Mỹ Hòa, Thị trấn Mỹ Luông, Huyện Chợ Mới, An Giang
+data_train/2329_samples.png	50A Hùng Vương, phường Phú Nhuận, tp Huế, Thừa Thiên Huế
+data_train/0942_samples.png	5/24/165 đường Cầu Giấy, Phường Quan Hoa, Quận Cầu Giấy, Hà Nội
+data_train/0086_samples.png	Xã Kiệt Sơn, Huyện Tân Sơn, Phú Thọ
+data_train/1384_samples.png	418 Tôn Đức Thắng, Phường Hoà Minh, Quận Liên Chiểu, Đà Nẵng
+data_train/0262_samples.png	59/10 Đinh Bộ Lĩnh, Phường 26, Quận Bình Thạnh, TP Hồ Chí Minh
+data_train/0920_samples.png	Số 59 Hàng Cấp, Phường Quang Trung, Thành Phố Nam Định, Nam Định
+data_train/1015_samples.png	Số nhà 52, tỉnh lộ 5, thôn 2, Xã Cư êBur, Tp.buôn Ma Thuột, Đắc Lắc
+data_train/0495_samples.png	Tổ 2, ấp Cảng, Xã Hoà Điền, Huyện Kiên Lương, Kiên Giang
+data_train/1849_samples.png	Khóm 3, phường1, thành phố Bạc Liêu, Bạc Liêu
+data_train/2119_samples.png	số 34, ngách 12/2, ngõ 290 đường Kim Mã, Ngọc Khánh, Ba Đình
+data_train/1794_samples.png	9 Thống Nhất, Phường 11, Quận Gò Vấp, TP Hồ Chí Minh
+data_train/1529_samples.png	Thôn Thành Lập - Xã Xuân Hoà, Xã Xuân Hòa, Huyện Lập Thạch, Vĩnh Phúc
+data_train/1634_samples.png	Cẩm Huy, Huyện Cẩm Xuyên, Hà Tĩnh
+data_train/1276_samples.png	Số 40, phố 5/8, Phường Ka Long, Thành phố Móng cái, Quảng Ninh
+data_train/0823_samples.png	1441 khu 34 Song Mai, Thành Phố Bắc Giang, Bắc Giang
+data_train/0867_samples.png	Số 18B Ma Trang Sơn, Phường 5, Thành phố Đà Lạt, Lâm Đồng
+data_train/1733_samples.png	Số 5 Trần Tuấn Khải, Xã Mỹ Xá, Thành phố Nam Định, Nam Định
+data_train/2161_samples.png	Ấp 5A, Xã An Trường, Huyện Càng Long, Trà Vinh
+data_train/1085_samples.png	Số 10, đường Phổ Quang, Phường 2, Quận Tân Bình, TP Hồ Chí Minh
+data_train/0676_samples.png	2A Cư Xã Phúc Hải, Phường Tân Phong, Thành phố Biên Hoà, Đồng Nai
+data_train/1946_samples.png	Bản Pá Chuông, Xã Na Son, Huyện Điện Biên Đông, Điện Biên
+data_train/0525_samples.png	553 Hương Lộ 2, Phường Bình Trị Đông, Quận Bình Tân, TP Hồ Chí Minh
+data_train/0515_samples.png	Thôn Hán Xuyên, Xã Thất Hùng, Huyện Kinh Môn, Hải Dương
+data_train/2181_samples.png	Số 552, đường Thống Nhất, phường quang Trung, tuyên Quang
+data_train/0283_samples.png	18C Phạm Đình Hổ, Phường Phạm Đình Hổ, Quận Hai Bà Trưng, Hà Nội
+data_train/1990_samples.png	Ấp 7, Xã Tân Thành, TP Đồng Xoài, Bình Phước
+data_train/0350_samples.png	Số 3C, đường Cư Xá Đồng Tiến, Phường 14, Quận 10, TP Hồ Chí Minh
+data_train/2306_samples.png	5 Trần Phú, Lương Khánh Thiện, Ngô Quyền, Hải Phòng
+data_train/0986_samples.png	Khau Luông, Xã Hoàng Tung, Huyện Hoà An, Cao Bằng
+data_train/0237_samples.png	162/11 Đường số 10, Phường 9, Quận Gò Vấp, TP Hồ Chí Minh
+data_train/0980_samples.png	Số 7A ngõ 690 Lạc Long Quân, Phường Nhật Tân, Quận Tây Hồ, Hà Nội
+data_train/1259_samples.png	Khu 7, Phường Hải Yên, Thành phố Móng cái, Quảng Ninh
+data_train/1486_samples.png	Số 254B Phố Thụy Khuê, Phường Thuỵ Khuê, Quận Tây Hồ, Hà Nội
+data_train/0458_samples.png	Khu vực I, , Thị trấn Đông Thành, Huyện Đức Huệ, Long An
+data_train/0079_samples.png	Khu TM Hiệp Thành Mộc Bài, Xã Lợi Thuận, Huyện Bến Cầu, Tây Ninh
+data_train/2001_samples.png	Thôn Hiệp Lễ, Xã Tân Hải, TX La Gi, Bình Thuận
+data_train/1327_samples.png	Thôn Phúc Thạnh, Huyện Lâm Hà, Lâm Đồng
+data_train/0002_samples.png	Số 246E/2, Khu phố 1B, Phường An Phú, Tx Thuận An, Bình Dương
+data_train/2172_samples.png	Bản Kiếu hát, Xã Mường Giàng, Huyện Quỳnh Nhai, Sơn La
+data_train/2209_samples.png	18 Hùng Vương, Gia Cẩm, Việt Trì, Phú Thọ
+data_train/0661_samples.png	Xã Lộc Ngãi, Huyện Bảo Lâm, Lâm Đồng
+data_train/1531_samples.png	Thị trấn ân thi, Huyện Ân Thi, Hưng Yên
+data_train/2246_samples.png	02 Trường Thi, Trường Thi, Vinh, Nghệ An
+data_train/2332_samples.png	60 Nguyễn Đình Chiểu, Hàm Tiến, Phan Thiết, Bình Thuận
+data_train/2223_samples.png	Nhật Chiêu, Liên Châu, Yên Lạc, Vĩnh Phúc
+data_train/1222_samples.png	Số 156 Xã Đàn 2, Phường Nam Đồng, Quận Đống Đa, Hà Nội
+data_train/0435_samples.png	Số nhà 1364, ấp 3, Xã Tiến Thành, Thị Xã Đồng Xoài, Bình Phước
+data_train/2079_samples.png	Tổ dân Phố 2, thị trấn Mèo Vạc, huyện Mèo Vạc, tỉnh Hà Giang
+data_train/0731_samples.png	Tổ 49, khu 11, Phường Thanh Miếu, Thành Phố Việt Trì, Phú Thọ
+data_train/2050_samples.png	Khối phố Thống Nhất, thị trấn Nghèn, Can Lộc, Hà Tĩnh
+data_train/1078_samples.png	Số 10, ngách 406/66 âu Cơ, Phường Nhật Tân, Quận Tây Hồ, Hà Nội
+data_train/0013_samples.png	561A Điện Biên Phủ, Phường 25, Quận Bình Thạnh, TP Hồ Chí Minh
+data_train/1858_samples.png	số 8 Quang Trung phường Lộc Thọ, Thành phố Nha Trang
+data_train/0647_samples.png	Thị trấn Đại Nghĩa, Thị trấn Đại Nghĩa, Huyện Mỹ Đức, Hà Nội
+data_train/1780_samples.png	Số 21, phố Hồng Phúc, P. Nguyễn Trung Trực, Quận Ba Đình, Hà Nội
+data_train/1202_samples.png	Khu đô thị Tp Lễ Hội, Phường Vĩnh Mỹ, Thành phố Châu Đốc, An Giang
+data_train/2350_samples.png	27 Nguyễn Tất Thành, phường 8, thành phố Cà Mau, Cà Mau
+data_train/2323_samples.png	6 Hai Bà Trưng, phường 1, thành phố Bến Tre, Bến Tre
+data_train/1092_samples.png	819/30 Nguyễn Kiệm, Phường 3, Quận Gò Vấp, TP Hồ Chí Minh
+data_train/2199_samples.png	Xóm 11, Nhan Bầu, Xã Thanh Hồng, Huyện Thanh Hà, Hải Dương
+data_train/0469_samples.png	29 Khóm B, TT Tân Hiệp, Huyện Tân Hiệp, Kiên Giang
+data_train/0047_samples.png	Thôn 2, Xã Krông Jing, Huyện M ĐrắK, Đắc Lắc
+data_train/1029_samples.png	Bình Thắng, Xã Bình Thắng, Huyện Bù Gia Mập, Bình Phước
+data_train/2167_samples.png	Số 325 Đường Nguyễn Văn Cừ, Phường Trường Thi, TP Vinh, Nghệ An
+data_train/1917_samples.png	Xóm 1, Thôn Đào Yêu, Xã Hồng Thái, Quận An Dương, Hải Phòng
+data_train/1563_samples.png	15 Đường 17, ấp Đình, Xã Tân Phú Trung, Huyện Củ Chi, TP Hồ Chí Minh
+data_train/1576_samples.png	Thôn Thuận Hưng, Xã Thuận Hạnh, Huyện Đắk Song, Đắk Nông
+data_train/0260_samples.png	Đội 3 thôn Đồng Lư, Xã Đồng Quang, Huyện Quốc Oai, Hà Nội
+data_train/1729_samples.png	Số 161, phố Phùng Hưng, Phường Cửa Đông, Quận Hoàn Kiếm, Hà Nội
+data_train/0655_samples.png	281/54/10 Lê Văn Sỹ, Phường 1, Quận Tân Bình, TP Hồ Chí Minh
+data_train/0626_samples.png	Tổ 8, Khối Độc Lập, Phường Vạn Phúc, Quận Hà Đông, Hà Nội
+data_train/0449_samples.png	Đường Lạc Trị, cụm 3, Xã Thọ Lộc, Huyện Phúc Thọ, Hà Nội
+data_train/0192_samples.png	Số 219B, ấp Chánh, Xã Đức Lập Hạ, Huyện Đức Hoà, Long An
+data_train/0372_samples.png	80C Gò Cát, Phường Phú Hữu, Quận 9, TP Hồ Chí Minh
+data_train/2021_samples.png	Thôn Hùng Thần, xã Hiệp Hòa, thị xã Kinh Môn, Hải Dương
+data_train/2087_samples.png	Khối 3, thị trấn Tây Sơn, huyện Hương Sơn, tỉnh Hà Tĩnh
+data_train/0566_samples.png	09, Thành phố Đồng Hới, Quảng Bình
+data_train/0898_samples.png	Thôn 5, Xã Ia Le, Huyện Chư Pưh, Gia Lai
+data_train/1482_samples.png	Thị trấn Quốc Oai, Thị trấn Quốc Oai, Huyện Quốc Oai, Hà Nội
+data_train/1635_samples.png	D16/41 ấp 04, Xã Hưng Long, Huyện Bình Chánh, TP Hồ Chí Minh
+data_train/1754_samples.png	315 Nguyễn Tri Phương, Phường Hoà Thuận Đông, Quận Hải Châu, Đà Nẵng
+data_train/1076_samples.png	Số 23 phố Phạm Hồng Thái, Phường Trúc Bạch, Quận Ba Đình, Hà Nội
+data_train/2207_samples.png	Thôn Vỹ Dạ, Phường Vỹ Dạ, Huế, Thừa Thiên Huế
+data_train/1010_samples.png	51/18/116 Phạm Văn Chiêu, Phường 14, Quận Gò Vấp, TP Hồ Chí Minh
+data_train/2345_samples.png	15 Nguyễn Tất Thành, phường Cam Nghĩa, thành phố Cam Ranh, Khánh Hòa
+data_train/1084_samples.png	Số 875 đường 23/10, Xã Vĩnh Thạnh, Thành Phố Nha Trang, Khánh Hòa
+data_train/0585_samples.png	114/9 Đề Thám, Phường Cầu Ông Lãnh, Quận 1, TP Hồ Chí Minh
+data_train/1879_samples.png	Xóm Mỏ Sắt, Xã Hợp Tiến, Huyện Đồng Hỷ, Thái Nguyên
+data_train/1620_samples.png	Đường Phạm Văn Đồng, Huyện Từ Liêm, Hà Nội
+data_train/2044_samples.png	12, đường Bùi Thị Xuân, phường 2, thành phố Đà Lạt, tỉnh Đắk Lắk
+data_train/0870_samples.png	Thôn Cự Đà, Xã Hoằng Minh, Huyện Hoằng Hoá, Thanh Hoá
+data_train/1288_samples.png	ấp Hòa Đông, Xã Đông Hòa, Huyện An Minh, Kiên Giang
+data_train/0864_samples.png	Số nhà 12/4, Phường Tây Sơn, Thị Xã Tam Điệp, Ninh Bình
+data_train/0271_samples.png	Tổ dân phố Trung Bình, Phường Dương Nội, Quận Hà Đông, Hà Nội
+data_train/1096_samples.png	27 Bàu Tràm 2, Phường Khuê Trung, Quận Cẩm Lệ, Đà Nẵng
+data_train/1643_samples.png	Số 16/282/33, đường Kim Giang, Phường Đại Kim, Quận Hoàng Mai, Hà Nội
+data_train/1292_samples.png	Số 3, tổ 8, KP4, Phường Trảng Dài, Thành Phố Biên Hoà, Đồng Nai
+data_train/0131_samples.png	Số 79, ngõ 3 Phan Phù Tiên, Phường Cát Linh, Quận Đống Đa, Hà Nội
+data_train/0938_samples.png	Khu 1 Thị trấn Tiên Lãng, Huyện Tiên Lãng, Hải Phòng
+data_train/0229_samples.png	Tổ 38, Khu 5, Phường Vân Phú, Thành phố Việt Trì, Phú Thọ
+data_train/1328_samples.png	Xóm 3, Thôn Cấn Hạ, Xã Cấn Hữu, Huyện Quốc Oai, Hà Nội
+data_train/0899_samples.png	Số 127 Đông Thái, thị trấn Vĩnh Bảo, Huyện Vĩnh Bảo, Hải Phòng
+data_train/1105_samples.png	đình, Thị trấn An Châu, Huyện Sơn Động, Bắc Giang
+data_train/1554_samples.png	203/13 Nguyễn Văn Thủ, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+data_train/1893_samples.png	Làng Bàng, xã Ia Nhin, Huyện Chư Pãh, Gia Lai
+data_train/0669_samples.png	Thôn Ngọ Xá, Xã Châu Minh, Huyện Hiệp Hoà, Bắc Giang
+data_train/1002_samples.png	Thị trấn Trần Cao, Thị trấn Trần Cao, Huyện Phù Cừ, Hưng Yên
+data_train/2187_samples.png	Số 124, Đường Trần Hưng Đạo, phường Cẩm Phả, thành phố Hội An, Quảng Nam
+data_train/0700_samples.png	Dạ Trạch, Huyện Khoái Châu, Hưng Yên
+data_train/0292_samples.png	Thôn Phú Bật, Xã Đông Phú, Huyện Đông Sơn, Thanh Hoá
+data_train/1093_samples.png	04 Bà Triệu, Thành phố Phan Thiết, Bình Thuận
+data_train/0858_samples.png	Km 9 đường Quán Toan, Phường Quán Toan, Quận Hồng Bàng, Hải Phòng
+data_train/1455_samples.png	Tảo Dương Văn, Huyện Ứng Hoà, Hà Nội
+data_train/1516_samples.png	ấp 4, Tân Hiệp, Huyện Phú Giáo, Bình Dương
+data_train/0666_samples.png	Số 256, Võ Thị Sáu, Khu phố 5, Phường 4, Thành phố Tây Ninh, Tây Ninh
+data_train/1494_samples.png	19 Đường 31F, Phường An Phú, Quận 2, TP Hồ Chí Minh
+data_train/1857_samples.png	Ấp An Phú, xã An Ninh Tây, huyện Đức Hòa, Tây Ninh
+data_train/2322_samples.png	52 Phạm Hùng, phường 9, thành phố Vĩnh Long, Vĩnh Long
+data_train/2316_samples.png	99 Nguyễn Tất Thành, Lê Lợi, Quy Nhơn, Bình Định
+data_train/0413_samples.png	Thôn Đồng Bây xã An Lạc, Huyện Sơn Động, Bắc Giang
+data_train/0953_samples.png	số 46 phố Tân ấp, phường Phúc Xá, Quận Ba Đình, Hà Nội
+data_train/0326_samples.png	Số 432, tổ 45b, Phường Hoàng Văn Thụ, Quận Hoàng Mai, Hà Nội
+data_train/1185_samples.png	354/66/1 Phan Văn Trị, Phường 11, Quận Bình Thạnh, TP Hồ Chí Minh
+data_train/0933_samples.png	Khu CN Đồng Văn, Thị Trấn Đồng Văn, Huyện Duy Tiên, Hà Nam
+data_train/0187_samples.png	Xóm Cầu, thôn Triều Khúc, Xã Tân Triều, Huyện Thanh Trì, Hà Nội
+data_train/0284_samples.png	Số 35 Phan Đình Giót, Phường Phương Liệt, Quận Thanh Xuân, Hà Nội
+data_train/0787_samples.png	Xã Quỳnh Thọ, Huyện Quỳnh Lưu, Nghệ An
+data_train/1481_samples.png	185/12/20 Nguyễn Phúc Chu, Phường 15, Quận Tân Bình, TP Hồ Chí Minh
+data_train/1200_samples.png	Thôn Phong Niên Thương, Xã Tịnh Phong, Huyện Sơn Tịnh, Quảng Ngãi
+data_train/2261_samples.png	Khu phố 2, Cai Lậy, Cai Lậy, Tiền Giang
+data_train/0322_samples.png	84/4 Hoàng Hữu Nam, Phường Long Thạnh Mỹ, Quận 9, TP Hồ Chí Minh
+data_train/1550_samples.png	ấp Vĩnh Lộc, Huyện Vĩnh Thạnh, Cần Thơ
+data_train/0511_samples.png	Số 2, Đường 207, Khu phố 4, Phường Hiệp Phú, Quận 9, TP Hồ Chí Minh
+data_train/2196_samples.png	Số 35/10 Đường Tạ Quang Bửu, Phường Thành Nhất, Đắk Lắk
+data_train/1881_samples.png	Thôn Ninh Tinh 6, Phường 9, Tp Tuy Hoà, Phú Yên
+data_train/0177_samples.png	Số 01, khu 4, Phường Long Thuỷ, Thị Xã Phước Long, Bình Phước
+data_train/1083_samples.png	291 Phạm Ngũ Lão, Phường Phạm Ngũ Lão, Quận 1, TP Hồ Chí Minh
+data_train/1408_samples.png	Số 196 đường Quang Trung, Phường Quang Trung, Quận Hà Đông, Hà Nội
+data_train/1470_samples.png	Thôn Thượng Đình, Xã Nhị Khê, Huyện Thường Tín, Hà Nội
+data_train/0396_samples.png	Số 6A, phố Trần Quốc Toản, phường Hàng Bài, Quận Hoàn Kiếm, Hà Nội
+data_train/1556_samples.png	Thị trấn Ba Tơ, Huyện Ba Tơ, Quảng Ngãi
+data_train/0379_samples.png	6 KP1, Phường Tân Quy, Quận 7, TP Hồ Chí Minh
+data_train/0418_samples.png	Xã Tân Cương, Xã Tân Cương, Huyện Vĩnh Tường, Vĩnh Phúc
+data_train/1378_samples.png	113 Lê Đình Lý, Phường Vĩnh Trung, Quận Thanh Khê, Đà Nẵng
+data_train/0881_samples.png	Km2, 5 quốc lộ 39 A Lưu Trung, Xã Liêu Xá, Huyện Yên Mỹ, Hưng Yên
+data_train/0636_samples.png	Thôn Thanh Lương, Xã Quang Thịnh, Huyện Lạng Giang, Bắc Giang
+data_train/1138_samples.png	26/24 Nguyễn Bỉnh Khiêm, Phường Đa Kao, Quận 1, TP Hồ Chí Minh
+data_train/1393_samples.png	thôn Thanh Mỹ, Xã Phù Lưu, Huyện Lộc Hà, Hà Tĩnh
+data_train/1731_samples.png	Thôn Đầm môn, xã Vạn Thạnh, Huyện Vạn Ninh, Khánh Hòa
+data_train/0653_samples.png	90/3 Cao Văn Ngọc, Phường Phú Trung, Quận Tân phú, TP Hồ Chí Minh
+data_train/0026_samples.png	ấp 6, Xã Vĩnh Thuận Đông, Huyện Long Mỹ, Hậu Giang
+data_train/1139_samples.png	9/9 644, quốc lộ 1A, P4, Phường 4, Thành Phố Tân An, Long An
+data_train/1839_samples.png	910A Ngô Quyền, phường An Hải Bắc, Sơn Trà, Đà Nẵng
+data_train/0902_samples.png	Số 02 đường Trần Hưng Đạo, Phường 3, Thành Phố Đà Lạt, Lâm Đồng
+data_train/1718_samples.png	Tổ 8A, Phường Đức Xuân, Thành Phố Bắc Kạn, Bắc Kạn
+data_train/2232_samples.png	Xóm 7, Vũ Sơn, Đông Hưng, Thái Bình
+data_train/0814_samples.png	88-90 Bạch Vân, Phường 05, Quận 5, TP Hồ Chí Minh
+data_train/2298_samples.png	26 Phan Đình Phùng, Nam Hà, Hà Tĩnh
+data_train/0108_samples.png	121B Trần Nhật Duật, Phường Phước Hòa, Thành phố Nha Trang, Khánh Hòa
+data_train/2069_samples.png	Khóm 1, phường 9, thành phố Cà Mau, tỉnh Cà Mau
+data_train/0952_samples.png	71/23 Gò Xoài, Phường Bình Hưng Hòa A, Quận Bình Tân, TP Hồ Chí Minh
+data_train/0895_samples.png	khu 8 thị trấn Phú Bài, Thị xã Hương Thuỷ, Thừa Thiên - Huế
+data_train/0383_samples.png	Tổ 4, Phường Trần Phú, TP Hà Giang, Hà Giang
+data_train/0122_samples.png	Thôn Mơ, Xã Xuân Bình, Huyện Như Xuân, Thanh Hoá
+data_train/0130_samples.png	61/21 Lý Tự Trọng, Quận Ninh Kiều, Cần Thơ
+data_train/1728_samples.png	48 Cao Thắng, Phuờng 05, Quận 3, TP Hồ Chí Minh
+data_train/0356_samples.png	41 Ngô Gia Tự, TP.Buôn Ma Thuột, Đắc Lắc
+data_train/2233_samples.png	Nguyễn Trãi, Hà Giang
+data_train/0419_samples.png	Tổ 4, thôn Phước Long, Xã Tân Hoà, Huyện Tân Thành, Bà Rịa - Vũng Tàu
+data_train/0571_samples.png	Tổ 34, Quận Liên Chiểu, Đà Nẵng
+data_train/0914_samples.png	Số 1/47 Phạm Hữu Điều, Phường Niệm Nghĩa, Quận Lê Chân, Hải Phòng
+data_train/1003_samples.png	Số 273 Tô Hiệu, Phường Nghĩa Tân, Quận Cầu Giấy, Hà Nội
+data_train/1126_samples.png	65 Võ Như Hưng, Phường Mỹ An, Quận Ngũ Hành Sơn, Đà Nẵng
+data_train/0102_samples.png	Xã Phương Công, Huyện Tiền Hải, Thái Bình
+data_train/0456_samples.png	Xã Giao Tân, Huyện Giao Thuỷ, Nam Định

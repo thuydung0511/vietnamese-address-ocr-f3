@@ -1,0 +1,5 @@
+KẾT QUẢ ĐÁNH GIÁ VIETOCR
+Số ảnh đánh giá  : 2963
+CER trung bình   : 0.0618
+WER trung bình   : 0.1871
+Exact Match Rate : 0.2778

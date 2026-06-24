@@ -1,0 +1,5 @@
+KẾT QUẢ ĐÁNH GIÁ VIETOCR - MODEL FINE-TUNE ĐỊA CHỈ
+Số ảnh đánh giá  : 549
+CER trung bình   : 0.0476
+WER trung bình   : 0.1450
+Exact Match Rate : 0.2750

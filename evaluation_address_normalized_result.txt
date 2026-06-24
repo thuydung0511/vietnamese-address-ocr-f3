@@ -1,0 +1,12 @@
+KẾT QUẢ ĐÁNH GIÁ VIETOCR - RAW VS NORMALIZED
+Số ảnh đánh giá       : 549
+
+RAW RESULT
+CER trung bình        : 0.0476
+WER trung bình        : 0.1450
+Exact Match Rate      : 0.2750
+
+NORMALIZED RESULT
+CER trung bình        : 0.0408
+WER trung bình        : 0.1107
+Exact Match Rate      : 0.3862

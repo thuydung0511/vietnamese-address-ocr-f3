@@ -1,0 +1,12 @@
+KẾT QUẢ MODEL GỐC TRÊN TEST_1 - RAW VS NORMALIZED
+Số ảnh đánh giá       : 549
+
+RAW RESULT
+CER trung bình        : 0.1039
+WER trung bình        : 0.3084
+Exact Match Rate      : 0.0820
+
+NORMALIZED RESULT
+CER trung bình        : 0.0882
+WER trung bình        : 0.2466
+Exact Match Rate      : 0.1311

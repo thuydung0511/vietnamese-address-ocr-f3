@@ -1,0 +1,8 @@
+vietocr
+opencv-python
+pillow
+numpy
+albumentations
+pyyaml
+gdown
+python-Levenshtein
