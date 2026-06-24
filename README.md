@@ -81,8 +81,13 @@ Sau khi chạy, mở link hiển thị trên terminal (mặc định `http://127
 
 ## Dữ liệu sử dụng
 
-- [Viet-Handwriting-OCR-v2](https://huggingface.co/datasets/5CD-AI/Viet-Handwriting-OCR-v2) — Hugging Face
-- Dataset địa chỉ viết tay — Kaggle (xem chi tiết trong báo cáo)
+1. **Viet-Handwriting-OCR-v2**
+   Bộ dữ liệu chữ viết tay tiếng Việt tổng quát, được sử dụng để huấn luyện mô hình nền VietOCR.
+   Link: https://huggingface.co/datasets/5CD-AI/Viet-Handwriting-OCR-v2
+
+2. **vietnamese_address_handwriting**
+   Bộ dữ liệu địa chỉ viết tay tiếng Việt, được sử dụng làm nguồn dữ liệu chính cho bài toán nhận dạng địa chỉ.
+   Link: https://www.kaggle.com/datasets/miketruong/vietnamese-address-handwriting
 - ~500 mẫu địa chỉ tự thu thập bởi nhóm thực hiện
 
 ## Báo cáo đầy đủ
